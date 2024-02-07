@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+body{
+    background-color: #ccc;
+}
+
+.img-logo {
+    text-align: center;
+    padding: 10px;
+}
+
+div #navbarNav {
+        text-align: center;
+}
+
+
+
+div #slides{
+
+ 
+}
+
+div #td{
+    background-color: gray;
+    border-radius: 1px;
+}
+
+
+
+div #Depoimentos {
+    
+    
+}
+
+form{
+padding-left: 80px;
+padding-right: 80px;
+}
+
+footer{
+    
+}
